@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I‘m Qixin Li
+
+- 🔭 I’m currently working on [HIT-SCIR](http://ir.hit.edu.cn/), and I will join [Alibaba](https://www.alibabagroup.com/cn/global/home) in July this year.
+- 🌱 I’m currently learning nature language processing and task-oriented dialogue system.
+- 
+- 📫 How to reach me: [Email](mailto:qxli@ir.hit.edu.cn).
+
+<a href="https://QixinLi.github.io/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=QixinLi&count_private=true&show_icons=true" />
+</a>  
+
 <!--
 **QixinLi/QixinLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
